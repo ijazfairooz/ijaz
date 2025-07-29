@@ -495,3 +495,136 @@ sudo apt install acl
 sudo setfacl -m u:ija:wx /home
 su -ija
 su - ija
+sudo apt git -y
+sudo apt update
+sudo apt install git -y
+git --version
+pwd
+git init
+git branch
+git branch dev
+git branch master
+git add.
+ls
+git add test3
+git log
+git status -s
+git add test1.sh
+git status
+git status -s
+git -a -m "new commit" commit test1.sh
+git  -m "new commit" commit test1.sh
+git commit "new"
+git  -m "new commit" commit
+clear
+git commit
+git commit "ijaz"
+git commit "ijaz" test1.sh
+ls
+git commit "ijaz" test1.sh
+git status
+git reset
+git status -s
+git add .
+git status -s
+git commit "ijaz"
+git commit "ijaz" .
+git commit -m "ijaz" .
+git log
+git status
+git log --online
+git log --oneline
+git branch dev
+git branch
+git checkout dev
+git config --global user.name "ijaz"
+git remote
+git remote add origin
+git remote add origin https://github.com/ijazfairooz/ijaz.git
+git push -u origin main
+Git push origin dev branch
+echo "# ijaz" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:ijazfairooz/ijaz.git
+git push -u origin main
+clear
+git push -u main
+git push -u origin main
+git status
+git log
+git branch
+git branch dev
+git checkout dev
+git push -u origin main
+git remote add dev git@github.com:ijazfairooz/ijaz.git
+git push -u origin dev
+git branch
+git push -u origin dev
+git remote
+git remote add origin
+clear
+git branch
+git remote
+git push -u origin origin
+git push -u dev dev
+git push -u origin dev
+git remote add backend
+git remote add backend git@github.com:ijazfairooz/ijaz.git
+git remote
+git push -u backend dev
+git push -u origin dev
+git push -u ijaz dev
+git init
+git add .
+git commit -m "first commit"
+git push -u dev dev
+git remote
+git branch
+git remote add ijaz git@github.com:ijazfairooz/ijaz.git
+git branch ijaz
+git push -u ijaz ijaz
+git init
+git remote -v
+git status -s
+git staus -s
+git status 
+git status -s
+git add .
+git status -s
+pwd
+git push -u origin ijaz
+git push -u ijaz main
+git remote
+git branch
+cd ..
+ls
+git branch
+git init
+sudo git brnach
+sudo git branch
+sudo git init
+git branch
+chmod 777
+chmod 777 /home
+chmod cd /home/ubuntu
+cd /home/ubuntu
+ls
+git branch
+cp -i test1.sh /home
+ls
+cp test.sh /home
+cp test1.sh /home
+cp test1.sh /home/ubuntu/parent1
+ls
+ls /home/ubuntu/parent1
+git remote add ijaz 
+
+git remote add ijaz2 git remote add origin git@github.com:ijazfairooz/youngboy.git
+git remote add you git@github.com:ijazfairooz/youngboy.git
+git push -u ijaz dev
+git branch
+git push -u you dev
+git remote
